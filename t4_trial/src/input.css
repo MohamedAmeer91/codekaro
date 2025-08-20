@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-play: "Playwrite MX Guides", "sans-serif"; 
+  --font-qwitcher: "Qwitcher Grypen", "mono";
+  --font-bebas: "Bebas Neue", "mono";
+
+  --text-10xl: 9rem; 
+}
